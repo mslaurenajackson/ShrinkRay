@@ -1,0 +1,20 @@
+{
+  "name": "shrinkrayapp",
+  "version": "1.0.0",
+  "description": "Shrink Ray App",
+  "homepage": "https://github.com/mslaurenajackson/ShrinkRay#readme",
+  "bugs": {
+    "url": "https://github.com/mslaurenajackson/ShrinkRay/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mslaurenajackson/ShrinkRay.git"
+  },
+  "license": "ISC",
+  "author": "Lauren Alethea Jackson",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  }
+}
