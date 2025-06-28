@@ -1,24 +1,6 @@
 {
   "name": "shrinkrayapp",
-<<<<<<< HEAD
-  "version": "1.0.0",
-  "description": "Shrink Ray App",
-  "homepage": "https://github.com/mslaurenajackson/ShrinkRay#readme",
-  "bugs": {
-    "url": "https://github.com/mslaurenajackson/ShrinkRay/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/mslaurenajackson/ShrinkRay.git"
-  },
-  "license": "ISC",
-  "author": "Lauren Alethea Jackson",
-  "type": "commonjs",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo"
-=======
-  "private": true,
+  "private": "true",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -41,6 +23,5 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
     "vite": "^6.3.5"
->>>>>>> 6bde489 (initial commit)
   }
 }
